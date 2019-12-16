@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="true_message">The answer is correct.</string>
+    <string name="false_message">The answer is incorrect.</string>
+
+    <string name="question01">Chocolate was once used as currency.</string>
+    <string name="question02">Elsa from Frozen and Belle from Beauty and the Beast are actually related. </string>
+    <string name="question03">Ketchup was used as a medicine in the early 19th century.</string>
+    <string name="question04">There are more Subways worldwide than McDonalds and Wendys combined.</string>
+    <string name="question05">The Great Wall Of China is visible from the moon.</string>
+    <string name="question06">Virtually all Las Vegas gambling casinos ensure that they have no clocks.</string>
+    <string name="question07">Leonardo da Vinci painted the Mona Lisa.</string>
+    <string name="question08">The inventor of C++ passed away from pneumonia.</string>
+
+
 </resources>
